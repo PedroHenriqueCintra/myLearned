@@ -1,0 +1,59 @@
+Classe Base: Usuário
+Todos os usuários do sistema devem herdar de uma classe base comum, que representa qualquer pessoa capaz de acessar o sistema.
+Responsabilidades da classe Usuário
+Dados comuns:
+Identificador único
+Nome
+E-mail
+Status da conta (ativo, inativo, bloqueado)
+Data de criação
+Métodos comuns (conceituais):
+Autenticar o usuário
+Verificar se a conta está ativa
+Impedir acesso se estiver inativa ou bloqueada
+Atualizar dados pessoais
+Validar formato de e-mail
+Impedir alterações caso o usuário esteja bloqueado
+Desativar conta
+Alterar status
+Registrar motivo da desativação
+Verificar permissão para executar uma ação
+Exibir dados básicos do usuário, sem informações sensíveis
+Validações obrigatórias na classe base:
+Usuários bloqueados não podem autenticar
+E-mails inválidos não podem ser persistidos
+Usuários inativos não podem executar ações
+Essas regras não devem ser ignoradas pelas classes filhas
+Classes Derivadas
+Administrador
+Usuário com privilégios elevados no sistema.
+Responsabilidades específicas:
+Criar, editar e remover usuários
+Alterar status de outros usuários
+Gerar relatórios do sistema
+Regras adicionais:
+Pode sobrescrever a verificação de permissões para permitir mais ações
+Não pode remover a própria conta
+Não pode remover o último administrador ativo do sistema
+Cliente
+Usuário que consome os serviços da plataforma.
+Dados adicionais:
+Plano de assinatura
+Data de vencimento do plano
+Responsabilidades específicas:
+Verificar se o plano está ativo
+Acessar funcionalidades conforme o plano contratado
+Solicitar upgrade de plano
+Validações:
+Não pode acessar o sistema se o plano estiver vencido
+Não pode acessar funcionalidades fora do plano, mesmo estando ativo
+Suporte
+Usuário interno com permissões restritas.
+Responsabilidades específicas:
+Visualizar dados de clientes
+Registrar atendimentos
+Consultar histórico de problemas
+Restrições:
+Não pode alterar dados críticos do cliente
+Não pode alterar planos ou status de conta
+Acesso predominantemente de leitura
