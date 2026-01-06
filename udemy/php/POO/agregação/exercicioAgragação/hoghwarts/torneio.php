@@ -16,7 +16,7 @@
             foreach($this->casas as $casa){
                 echo "Casa participante : $casa->nomeCasa  <br>";
                     foreach($casa->alunos as $aluno){
-                        echo "Os alunos participante: $aluno->nomeAluno <br>";
+                        echo "O aluno participante: $aluno->nomeAluno <br>";
             }
             }
             

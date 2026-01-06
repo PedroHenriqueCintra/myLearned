@@ -1,0 +1,38 @@
+Contexto (empresa)
+
+Você trabalha em uma empresa de tecnologia educacional.
+O time solicitou um recurso extra para cursos premium com acesso antecipado.
+Objetivo
+Usar protected corretamente
+Reaproveitar lógica da classe pai
+Utilizar herança sem quebrar encapsulamento
+Estrutura obrigatória
+Classe Curso
+Atributos (protected):
+string $titulo
+int $duracaoHoras
+Métodos:
+__construct(string $titulo, int $duracaoHoras)
+protected function gerarDescricaoBase(): string
+Retorna uma descrição contendo o título e a duração do curso
+public function apresentarCurso(): string
+Classe CursoPremium (herda de Curso)
+Atributos:
+private bool $certificado
+Métodos:
+__construct(string $titulo, int $duracaoHoras, bool $certificado)
+Deve chamar parent::__construct
+public function detalhesPremium(): string
+Deve usar gerarDescricaoBase()
+Deve informar se o curso possui certificado
+Extra (obrigatório)
+Novo método na classe Curso
+Criar o método:
+protected function cursoLongo(): bool
+Regras:
+Retorna true se o curso tiver mais de 20 horas
+Retorna false caso contrário
+Uso do extra
+A classe CursoPremium deve utilizar esse método
+Se o curso for longo, o relatório premium deve indicar:
+"Curso com acesso antecipado"
