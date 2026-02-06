@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6jhPQmHrtE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\IntroducaoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

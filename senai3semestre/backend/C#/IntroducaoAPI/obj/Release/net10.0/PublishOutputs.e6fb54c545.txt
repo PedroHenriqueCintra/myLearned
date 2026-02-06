@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\IntroducaoAPI.exe
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\appsettings.json
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\IntroducaoAPI.dll
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\IntroducaoAPI.deps.json
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\IntroducaoAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\IntroducaoAPI.pdb
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\myLearned\senai3semestre\backend\C#\introducaoAPI\bin\Release\net10.0\publish\Microsoft.OpenApi.dll
