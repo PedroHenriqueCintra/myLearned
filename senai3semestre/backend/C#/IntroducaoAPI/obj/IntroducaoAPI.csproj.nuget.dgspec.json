@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\IntroducaoAPI.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\IntroducaoAPI\\IntroducaoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\IntroducaoAPI.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\IntroducaoAPI\\IntroducaoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\IntroducaoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\IntroducaoAPI\\IntroducaoAPI.csproj",
         "projectName": "IntroducaoAPI",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\IntroducaoAPI.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\IntroducaoAPI\\IntroducaoAPI.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\introducaoAPI\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\myLearned\\senai3semestre\\backend\\C#\\IntroducaoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
