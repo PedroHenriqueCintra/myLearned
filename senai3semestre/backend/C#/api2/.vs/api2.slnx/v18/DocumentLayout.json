@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\data\\api2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:data\\api2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\onibus\\paratiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:onibus\\paratiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\onibus\\paratymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:onibus\\paratymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220173600_paraty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260220173600_paraty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220170151_dateonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260220170151_dateonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\rg\\rgmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:rg\\rgmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|c:\\users\\aluno\\source\\repos\\api2\\migrations\\20260220132340_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60321D-7209-4659-987E-E28088C56423}|api2.csproj|solutionrelative:migrations\\20260220132340_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260220173600_paraty.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220173600_paraty.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260220173600_paraty.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220173600_paraty.cs",
+              "RelativeToolTip": "Migrations\\20260220173600_paraty.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:36:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Data\\api2Context.cs",
+              "RelativeDocumentMoniker": "Data\\api2Context.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Data\\api2Context.cs",
+              "RelativeToolTip": "Data\\api2Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:33:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T17:33:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParatiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Onibus\\ParatiesController.cs",
+              "RelativeDocumentMoniker": "Onibus\\ParatiesController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Onibus\\ParatiesController.cs",
+              "RelativeToolTip": "Onibus\\ParatiesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:22:01.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParatyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Onibus\\ParatyModel.cs",
+              "RelativeDocumentMoniker": "Onibus\\ParatyModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Onibus\\ParatyModel.cs",
+              "RelativeToolTip": "Onibus\\ParatyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:14:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260220170151_dateonly.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220170151_dateonly.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260220170151_dateonly.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220170151_dateonly.cs",
+              "RelativeToolTip": "Migrations\\20260220170151_dateonly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:01:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RgModell.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Rg\\RgModell.cs",
+              "RelativeDocumentMoniker": "Rg\\RgModell.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Rg\\RgModell.cs",
+              "RelativeToolTip": "Rg\\RgModell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:25:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260220132340_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220132340_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260220132340_Inicial.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\api2\\Migrations\\20260220132340_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20260220132340_Inicial.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:23:40.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
