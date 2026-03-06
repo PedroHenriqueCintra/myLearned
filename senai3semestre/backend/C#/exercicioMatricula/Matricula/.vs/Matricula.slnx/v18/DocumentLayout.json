@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\Matricula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEDD694-AFC9-435C-834D-C56B640E6C71}|matricula.csproj|c:\\users\\aluno\\source\\repos\\matricula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEDD694-AFC9-435C-834D-C56B640E6C71}|matricula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9895D8-7284-42E9-B117-1EB1B1127178}|..\\CursoDominio\\CursoDominio.csproj|c:\\users\\aluno\\source\\repos\\cursodominio\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9895D8-7284-42E9-B117-1EB1B1127178}|..\\CursoDominio\\CursoDominio.csproj|c:\\users\\aluno\\source\\repos\\cursodominio\\notamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9895D8-7284-42E9-B117-1EB1B1127178}|..\\CursoDominio\\CursoDominio.csproj|c:\\users\\aluno\\source\\repos\\cursodominio\\cursomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "notaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\notaModel.cs",
+              "RelativeDocumentMoniker": "..\\CursoDominio\\notaModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\notaModel.cs",
+              "RelativeToolTip": "..\\CursoDominio\\notaModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:59:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alunoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\alunoModel.cs",
+              "RelativeDocumentMoniker": "..\\CursoDominio\\alunoModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\alunoModel.cs",
+              "RelativeToolTip": "..\\CursoDominio\\alunoModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:57:49.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cursoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\cursoModel.cs",
+              "RelativeDocumentMoniker": "..\\CursoDominio\\cursoModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\CursoDominio\\cursoModel.cs",
+              "RelativeToolTip": "..\\CursoDominio\\cursoModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:56:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Matricula\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Matricula\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:55:41.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

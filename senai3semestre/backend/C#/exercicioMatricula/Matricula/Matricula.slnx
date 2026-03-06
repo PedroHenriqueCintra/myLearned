@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CursoDominio/CursoDominio.csproj" />
+  <Project Path="matricula.csproj" />
+</Solution>
