@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\bin\Debug\net10.0\ProdutoDomain.deps.json
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\bin\Debug\net10.0\ProdutoDomain.dll
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\bin\Debug\net10.0\ProdutoDomain.pdb
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.dll
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\refint\ProdutoDomain.dll
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ProdutoDomain.pdb
+C:\Users\Aluno\Desktop\ControleEstoque\ProdutoDomain\obj\Debug\net10.0\ref\ProdutoDomain.dll

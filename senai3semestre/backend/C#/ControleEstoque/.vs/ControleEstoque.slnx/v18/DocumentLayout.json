@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|c:\\users\\aluno\\desktop\\controleestoque\\produtodomain\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|solutionrelative:produtodomain\\unidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|c:\\users\\aluno\\desktop\\controleestoque\\produtodomain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|solutionrelative:produtodomain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\migrations\\20260313141713_categoriaprodutocriacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\migrations\\20260313141713_categoriaprodutocriacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|c:\\users\\aluno\\desktop\\controleestoque\\produtodomain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4828B964-9EFD-0C3B-078A-056649DA6075}|ProdutoDomain\\ProdutoDomain.csproj|solutionrelative:produtodomain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\data\\apicontroleestoquecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\data\\apicontroleestoquecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\migrations\\20260313124421_criarunidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\migrations\\20260313124421_criarunidademedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|c:\\users\\aluno\\desktop\\controleestoque\\apicontroleestoque\\controllers\\unidademedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAD029-0997-4F5B-66C8-5B021F51DD1F}|ApiControleEstoque\\ApiControleEstoque.csproj|solutionrelative:apicontroleestoque\\controllers\\unidademedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\categoria.cs",
+              "RelativeDocumentMoniker": "ProdutoDomain\\categoria.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\categoria.cs",
+              "RelativeToolTip": "ProdutoDomain\\categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:55:26.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\appsettings.json",
+              "RelativeToolTip": "ApiControleEstoque\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T12:31:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnidadeMedida.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\UnidadeMedida.cs",
+              "RelativeDocumentMoniker": "ProdutoDomain\\UnidadeMedida.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\UnidadeMedida.cs",
+              "RelativeToolTip": "ProdutoDomain\\UnidadeMedida.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:21:04.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ApiControleEstoque\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:12:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260313141713_CategoriaProdutoCriacao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Migrations\\20260313141713_CategoriaProdutoCriacao.cs",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\Migrations\\20260313141713_CategoriaProdutoCriacao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Migrations\\20260313141713_CategoriaProdutoCriacao.cs",
+              "RelativeToolTip": "ApiControleEstoque\\Migrations\\20260313141713_CategoriaProdutoCriacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:17:13.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\produto.cs",
+              "RelativeDocumentMoniker": "ProdutoDomain\\produto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ProdutoDomain\\produto.cs",
+              "RelativeToolTip": "ProdutoDomain\\produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:18:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiControleEstoqueContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Data\\ApiControleEstoqueContext.cs",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\Data\\ApiControleEstoqueContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Data\\ApiControleEstoqueContext.cs",
+              "RelativeToolTip": "ApiControleEstoque\\Data\\ApiControleEstoqueContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:22:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260313124421_CriarUnidadeMedida.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Migrations\\20260313124421_CriarUnidadeMedida.cs",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\Migrations\\20260313124421_CriarUnidadeMedida.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Migrations\\20260313124421_CriarUnidadeMedida.cs",
+              "RelativeToolTip": "ApiControleEstoque\\Migrations\\20260313124421_CriarUnidadeMedida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:44:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnidadeMedidaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Controllers\\UnidadeMedidaController.cs",
+              "RelativeDocumentMoniker": "ApiControleEstoque\\Controllers\\UnidadeMedidaController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ControleEstoque\\ApiControleEstoque\\Controllers\\UnidadeMedidaController.cs",
+              "RelativeToolTip": "ApiControleEstoque\\Controllers\\UnidadeMedidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:55:05.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
